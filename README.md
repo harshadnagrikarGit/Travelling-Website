@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshadnagrikarGit
-- 👀 I’m interested in Software development 
+- 👀 I’m interested in Software development/software Engineering.
 - 🌱 I’m currently learning Full Stack Java Developer course from Qspiders.
 - 💞️ I’m looking to collaborate on Web technology Projects
 - 📫 How to reach me 
