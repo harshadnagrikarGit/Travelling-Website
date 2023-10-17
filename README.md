@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @harshadnagrikarGit
-- 👀 I’m interested in Software development/software Engineering.
+- 👋 Hi, I’m Harshad Nagrikar
+- 👀 I’m interested in full stack web developer
 
-- 💞️ I’m looking to collaborate on Web technology Projects
+- 💞️ I’m looking to collaborate on Websites Projects
 - 📫 How to reach me https://www.linkedin.com/in/harshad-nagrikar-560ab2233/
 
 <!---
